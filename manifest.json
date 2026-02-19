@@ -6,7 +6,7 @@
   "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
   "idPrefixes": ["indio_", "lospiojos_", "callejeros_", "redondos_"]
-  "catalogs": }
+  "catalogs": [
     {
       "type": "recitales",
       "id": "rocknacional",

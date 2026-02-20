@@ -20,5 +20,5 @@ Los shows que se transmiten hace una semana o un mes, no van a estar disponibles
 
 Versiones
 ------------------------------------
-0.90
+**0.90:** 
 Estado beta del complemento, se añaden recitales constantemente hasta que se lanze su versión oficial.

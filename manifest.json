@@ -1,11 +1,11 @@
 {
-  "id": "com.futbolretro.rocknacional",
+  "id": "com.callejeroretro.rocknacionalvod",
   "version": "1.0.0",
   "name": "Rock Nacional On Demand",
   "description": "Todo el Rock Argentino en un solo lugar",
   "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
-  "idPrefixes": ["indio_", "lospiojos_", "callejeros_", "redondos_"],
+  "idPrefixes": ["indio_", "lospiojos_", "callejeros_", "redondos_", "babasonicos_"],
   "catalogs": [
     {
       "type": "movie",
